@@ -1,5 +1,5 @@
 # LR2
 Libraries:
-  ExcelDataReader
-  ExcelDataReader.DataSet
-  Newtonsoft.Json
+  - ExcelDataReader
+  - ExcelDataReader.DataSet
+  - Newtonsoft.Json
